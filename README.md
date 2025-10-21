@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Randika Deshan
 
-<!--
-**RandikaDeshan/RandikaDeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student at NSBM Green University  
+💻 Flutter & ReactJS Developer | Mobile & Web App Enthusiast  
+🎥 Creator of [Code with Desh](https://www.youtube.com/@CodeWithDesh) – Flutter Coding Tutorials  
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- Flutter, Dart  
+- ReactJS, JavaScript  
+- Firebase, Node.js  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Learning
+Exploring advanced Flutter animations and API integrations.
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/randika-deshan-75b356261/) | [YouTube](https://www.youtube.com/@CodeWithDesh)
+
